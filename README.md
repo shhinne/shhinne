@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shine Jose</h1>
+<h1 align="center">Hi 👋, I'm Shine</h1>
 <h3 align="center">A Student with passionate skills in Programming and Designing</h3>
 
 - 🌱 I’m currently learning **Web designing ,Web developing**
