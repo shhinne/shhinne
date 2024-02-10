@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shine</h1>
 <h3 align="center">A Student with passionate skills in Programming and Designing</h3>
+- 💻 Developing Webs (frontend)**
 
-- 🌱 I’m currently learning **Web designing ,Web developing**
+- 🌱 I’m currently learning **Frontend/UI**
 
-- 💬 Ask me about **cpp/c/php/html/css/js**
+- 💬 Ask me about **C++ C HTML CSS JavaScript PHP **
 
 - 📫 How to reach me **Shinejose696@gmail.com**
 
-- ⚡ Fun fact **I am a student**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
