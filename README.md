@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shine</h1>
-<h3 align="center">A Student with passionate skills in Programming and Designing</h3>
-- 💻 Developing Webs (frontend)**
+<h3 align="center">Playing with Frontends/Slow learner :) </h3>
+- **💻 Developing Webs (frontend)**
 
 - 🌱 I’m currently learning **Frontend/UI**
 
