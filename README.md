@@ -2,7 +2,7 @@
 <h3 align="center">Playing with Frontends/Slow learner :) </h3>
 - **💻 Developing Webs (frontend)**
 
-- 🌱 I’m currently learning **Frontend/UI**
+- 🌱 I’m currently learning **Frontend/UI/UX**
 
 - 💬 Ask me about **C++ C HTML CSS JavaScript PHP **
 
