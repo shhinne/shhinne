@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shine</h1>
-<h3 align="center">Playing with Frontends/Slow learner :) </h3>
- - 💻 playing with **frontend**
+<h3 align="center">Playing with Frontend :) </h3>
+ - 💻 Aspiring Web Developer & Designer (Student)
 
 - 🌱 I’m currently learning **Frontend/UI/UX**
 
-- 💬 Ask me about **C++ C HTML CSS JavaScript PHP **
+- 💬 Ask me about **C++ C HTML CSS JavaScript PHP**
 
 - 📫 How to reach me **Shinejose696@gmail.com**
 
